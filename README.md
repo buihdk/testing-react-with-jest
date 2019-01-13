@@ -1,4 +1,21 @@
 # Isomorphic React
+## Test Files
+```
+- src/App.spec.js
+- src/components/__tests__/NotificationsViewer.js
+- src/components/__tests__/QuestionDetail.js
+- src/components/QuestionList.spec.js
+- src/components/TagsList.spec.js
+- src/reducers/questions.spec.js
+- src/sagas/fetch-question-saga.spec.js
+```
+
+## Mock Files
+```
+- __mocks__/isomorphic-fetch.js
+- src/services/__mocks__/NotificationsService.js
+```
+
 ## A Starter Isomorphic React Application with All Best Practices and No Frills
 ![image](https://user-images.githubusercontent.com/4268152/31387801-c091f5c8-ad99-11e7-9cb6-42fcde98fc88.png)
 ### About The Application
